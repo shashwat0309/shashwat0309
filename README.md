@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shashwat.mohite@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **Almost any powered with electricity needs to be coded. Can you imagine?!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
