@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrandachag&label=Profile%20views&color=0e75b6&style=flat" alt="vrandachag" /> </p>
 
-- 🔭 I’m currently working on **Workshop Management Software**
+- 🔭 I’m currently working on **Python Data Sciense Software**
 
 - 🌱 I’m currently learning **Node JS**
 
