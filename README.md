@@ -14,9 +14,9 @@
 - ⚡ Fun fact **Almost any powered with electricity needs to be coded. Can you imagine?!**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat0309&show_icons=true&locale=en&layout=compact" alt="vrandachag" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat0309&show_icons=true&locale=en&layout=compact" alt="shashwat0309" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat0309&show_icons=true&locale=en" alt="vrandachag" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat0309&show_icons=true&locale=en" alt="shashwat0309" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashwat0309&theme=dark)](https://git.io/streak-stats)
 
@@ -27,9 +27,11 @@
 -------
 
 <a href="https://github.com/shashwat0309">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat0309&theme=dark&hide_langs_below=1" />
 </a>
 
+-------
+[![shashwat0309's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shashwat0309)](https://github.com/anuraghazra/github-readme-stats)
 -------
 
 <h4> 🏆 GitHub Trophies</h4>
