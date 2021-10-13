@@ -31,7 +31,8 @@
 </a>
 
 -------
-[![shashwat0309's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shashwat0309)](https://github.com/anuraghazra/github-readme-stats)
+[![shashwat0309's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shashwat0309)]
+
 -------
 
 <h4> 🏆 GitHub Trophies</h4>
