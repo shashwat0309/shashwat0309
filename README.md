@@ -34,7 +34,7 @@
 
 <h4> 🏆 GitHub Trophies</h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashwat0309&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashwat0309&theme=light&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/shashwat0309/shashwat0309)
