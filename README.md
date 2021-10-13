@@ -31,9 +31,6 @@
 </a>
 
 -------
-[![shashwat0309's wakatime stats]
-
--------
 
 <h4> 🏆 GitHub Trophies</h4>
 
