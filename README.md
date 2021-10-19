@@ -18,10 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat0309&show_icons=true&locale=en" alt="shashwat0309" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashwat0309&theme=light)](https://git.io/streak-stats)
-
--------
-
 <img src="https://github-readme-stats.vercel.app/api?username=shashwat0309&count_private=true&theme=light&show_icons=true" alt="shashwat0309's Github Stats" />
 
 -------
