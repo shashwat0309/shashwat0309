@@ -26,12 +26,6 @@
 
 -------
 
-<a href="https://github.com/shashwat0309">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat0309&theme=light&hide_langs_below=1" />
-</a>
-
--------
-
 <h4> 🏆 GitHub Trophies</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shashwat0309&theme=light&column=7)](https://github.com/ryo-ma/github-profile-trophy)
