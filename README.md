@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python Data Sciense Software**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Web devlopment,C/C++, Wordpress and Python**
 
