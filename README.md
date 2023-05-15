@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Mohite</h1>
-<h3 align="center">Full Stack Developer || Open Source Contributer || Pythoneer 🐍</h3>
+<h3 align="center">Full Stack Developer || Open Source Contributer || DevOps <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrandachag&label=Profile%20views&color=0e75b6&style=flat" alt="vrandachag" /> </p>
 
