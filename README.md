@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shashwat Mohite</h1>
-<h3 align="center">Full Stack Developer || Open Source Contributer || DevOps <h3>
+<h3 align="center">Full Stack || Open Source Contributer || DevOps <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrandachag&label=Profile%20views&color=0e75b6&style=flat" alt="vrandachag" /> </p>
 
-- 🔭 I’m currently working on **Python Data Sciense Software**
+- 🔭 I’m currently working on **Node JS, AWS, GCP**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working at position **Associate Solution Engineer**
 
-- 💬 Ask me about **Web devlopment,C/C++, Wordpress and Python**
+- 💬 Ask me about **C/C++, JS, PHP, Node JS, Express, Terraform, Wordpress**
 
-- 📫 How to reach me **shashwat.mohite@gmail.com**
+- 📫 How to reach me **shashwat.mohite2001@gmail.com**
 
 - ⚡ Fun fact **Almost any powered with electricity needs to be coded. Can you imagine?!**
 
