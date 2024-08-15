@@ -1,30 +1,32 @@
-<h1 align="center">Hi 👋, I'm Shashwat Mohite</h1>
-<h3 align="center">Full Stack || Open Source Contributer || DevOps <h3>
+# Hi there, I'm Shashwat Mohite 👋
+### Cloud Engineer (Infrastructure) / Blockchain DevOps
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrandachag&label=Profile%20views&color=0e75b6&style=flat" alt="vrandachag" /> </p>
+## About Me
+Hey there! 👋
 
-- 🔭 I’m currently working on **Node JS, AWS, GCP**
+I'm Shashwat, a passionate Cloud Engineer with a strong focus on Web3 and over 5 years of hands-on experience. My career has been all about innovation, from architecting scalable blockchain solutions to orchestrating seamless cloud migrations. 💻
 
-- 🌱 I’m currently working at position **Associate Solution Engineer**
+My journey has led me to drive initiatives that optimize CI/CD pipelines, drastically reducing deployment times and enhancing overall efficiency. With a strong focus on security, I've implemented robust monitoring and access control measures to safeguard mission-critical systems. 🚀
 
-- 💬 Ask me about **C/C++, JS, PHP, Node JS, Express, Terraform, Wordpress**
+I enjoy tackling complex challenges, whether it's designing multi-regional clusters for peak performance or crafting disaster recovery strategies for resilience. I thrive on staying ahead in the ever-evolving landscape of cloud infrastructure. 🔒
 
-- 📫 How to reach me **shashwat.mohite2001@gmail.com**
+If you're looking for someone who blends deep technical expertise with a passion for innovation, let's connect and explore exciting opportunities together! ✨
 
-- ⚡ Fun fact **Almost any powered with electricity needs to be coded. Can you imagine?!**
+## Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## Cloud DevOps
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat0309&show_icons=true&locale=en&layout=compact" alt="shashwat0309" /></p>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=shashwat0309&count_private=true&theme=light&show_icons=true" alt="shashwat0309's Github Stats" />
-
--------
-
-<h4> 🏆 GitHub Trophies</h4>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashwat0309&theme=light&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/shashwat0309/shashwat0309)
-![pv](https://pageview.vercel.app/?github_user=shashwat0309)
+## Get in Touch
+### 💬 Social
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-mohite/)  
+[![Email](https://img.shields.io/badge/email-white.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:shashwat.mohite2001@gmail.com)
