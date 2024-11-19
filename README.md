@@ -30,4 +30,4 @@ If you're looking for someone who blends deep technical expertise with a passion
 ## Get in Touch
 ### 💬 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-mohite/)  
-[![Email](https://img.shields.io/badge/email-white.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:shashwat.mohite2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwat.mohite2001@gmail.com)
