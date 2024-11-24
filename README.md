@@ -33,6 +33,6 @@ If you're looking for someone who blends deep technical expertise with a passion
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwat.mohite2001@gmail.com)
 
 ## Download Resume
-<a href="https://github.com/shashwat0309/shashwat0309/blob/main/Shashwat%20Mohite%20Resume%20Doc.pdf" download>
+<a href="./Shashwat%20Mohite%20Resume%20Doc.pdf" download>
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge" alt="Download Resume">
 </a>
