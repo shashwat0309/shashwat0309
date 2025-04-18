@@ -4,7 +4,7 @@
 ## About Me
 Hey there! 👋
 
-I'm a passionate Cloud Engineer with a strong focus on Web3 and over 3+ years of hands-on experience. My career has been all about innovation, from architecting scalable blockchain solutions to orchestrating seamless cloud migrations. 💻
+I'm a passionate Cloud Engineer with a strong focus on Web3 and over 4+ years of hands-on experience. My career has been all about innovation, from architecting scalable blockchain solutions to orchestrating seamless cloud migrations. 💻
 
 My journey has led me to drive initiatives that optimize CI/CD pipelines, drastically reducing deployment times and enhancing overall efficiency. With a strong focus on security, I've implemented robust monitoring and access control measures to safeguard mission-critical systems. 🚀
 
