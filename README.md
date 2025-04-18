@@ -1,10 +1,10 @@
-# Hi there, I'm Shashwat Mohite 👋
+# Hi there, 👋
 ### Cloud Engineer (Infrastructure) / Blockchain DevOps / Backend Engineer
 
 ## About Me
 Hey there! 👋
 
-I'm Shashwat, a passionate Cloud Engineer with a strong focus on Web3 and over 3 years of hands-on experience. My career has been all about innovation, from architecting scalable blockchain solutions to orchestrating seamless cloud migrations. 💻
+I'm a passionate Cloud Engineer with a strong focus on Web3 and over 3+ years of hands-on experience. My career has been all about innovation, from architecting scalable blockchain solutions to orchestrating seamless cloud migrations. 💻
 
 My journey has led me to drive initiatives that optimize CI/CD pipelines, drastically reducing deployment times and enhancing overall efficiency. With a strong focus on security, I've implemented robust monitoring and access control measures to safeguard mission-critical systems. 🚀
 
@@ -26,8 +26,3 @@ If you're looking for someone who blends deep technical expertise with a passion
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## Get in Touch
-### 💬 Social
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-mohite/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwat.mohite2001@gmail.com)
