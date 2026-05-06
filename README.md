@@ -1,5 +1,5 @@
 # Hi there, 👋
-### Cloud Engineer (Infrastructure) / Blockchain Lead DevOps / Backend Engineer
+### Full Stack Engineer
 
 ## About Me
 Hey there! 👋
